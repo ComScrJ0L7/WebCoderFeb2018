@@ -30,7 +30,7 @@ html {
   
   /* Jumbotron */
   .jumbotron{
-    background-image: url("../image/main picture.jpg");
+    background-image: url("../image/main_picture.jpg");
     display: block;
     background-size: cover;
     background-repeat: no-repeat;
